@@ -71,7 +71,7 @@ const modules = [
 ]
 
 const components = [
-  ShellComponentsss
+  ShellComponent
 ]
 
 
